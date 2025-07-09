@@ -1,0 +1,2 @@
+# EmbeddedAiKitStudioUltra
+Advanced EmbeddedAiKitStudioUltra project
